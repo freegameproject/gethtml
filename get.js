@@ -19,6 +19,7 @@ function download(url,index,callback) {
 }
 
 
+
 var url="http://zt.bjnews.com.cn/market/hr2015/index1.php?id=";
 var max=950;
 
@@ -44,4 +45,3 @@ for(i=0;i<max;i++){
     })(i);
 
 }
-
